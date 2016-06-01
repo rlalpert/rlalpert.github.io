@@ -17,3 +17,4 @@ github_username:  rlalpert
 
 # Build settings
 markdown: kramdown
+parse_block_html: true
